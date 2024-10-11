@@ -7,14 +7,14 @@ Given the variability in tooth size, shape, and spacing across different patient
 
 ## Objectives
 
-1). Automate Dental Image Segmentation
-2). Detect Gaps Between Premolars and Molars
-3). Enhance Clinical Efficiency
-4). Improve Precision of Gap Detection
-5). Provide a Tool for Real-time Clinical Decision Support
-6). Ensure Scalability Across Various Image Types
-7). Reduce Manual Errors and Subjectivity
-8). Integrate with Existing Dental Imaging Systems
+1). Automate Dental Image Segmentation\
+2). Detect Gaps Between Premolars and Molars\
+3). Enhance Clinical Efficiency\
+4). Improve Precision of Gap Detection\
+5). Provide a Tool for Real-time Clinical Decision Support\
+6). Ensure Scalability Across Various Image Types\
+7). Reduce Manual Errors and Subjectivity\
+8). Integrate with Existing Dental Imaging Systems\
 
 ## Proposed Solution
 
