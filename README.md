@@ -14,7 +14,7 @@ Given the variability in tooth size, shape, and spacing across different patient
 5). Provide a Tool for Real-time Clinical Decision Support\
 6). Ensure Scalability Across Various Image Types\
 7). Reduce Manual Errors and Subjectivity\
-8). Integrate with Existing Dental Imaging Systems\
+8). Integrate with Existing Dental Imaging Systems
 
 ## Proposed Solution
 
